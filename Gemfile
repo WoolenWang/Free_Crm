@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'http://ruby.taobao.org'
 
 # Uncomment the database that you have configured in config/database.yml
 # ----------------------------------------------------------------------
@@ -78,3 +78,4 @@ group :assets do
 end
 
 gem 'turbo-sprockets-rails3'
+gem 'mysql2'
